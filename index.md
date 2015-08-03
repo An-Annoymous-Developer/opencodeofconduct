@@ -34,9 +34,10 @@ Harassment includes, but is not limited to:
 - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect others from intentional abuse
 - Publication of non-harassing private communication
 
-Our open source community prioritizes marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
+Everybody has their own personal background, family history and culture. What is normal to one person could be intimidating or offensive to another person and what one person considers an unreasonable imposition could in fact be a nessessity to a different person. When a complaint is made we pledge to push beyond own biases, to strive to try to see the issue from every point of view, and to make the accommodations that allow a diverse community to thrive. 
 
-- ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
+We will not act on complaints regarding:
+
 - Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you”
 - Refusal to explain or debate social justice concepts
 - Communicating in a ‘tone’ you don’t find congenial
